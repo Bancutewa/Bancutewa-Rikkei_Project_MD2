@@ -1,0 +1,522 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "tien10304",
+      "password": "tien10304",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "name": "Cầu Vồng Parkinsoni - Parkinsoni",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/cauvongparkinsonitrong.jpg",
+      "category": "Cá Cầu Vồng",
+      "price": 170000,
+      "quantity": 200,
+      "id": 10
+    },
+    {
+      "id": 11,
+      "name": "Cá Cầu Vồng Nắng Vàng - Forktail Rainbowfish",
+      "img": "https://bizweb.dktcdn.net/100/441/675/products/forktailrainbowfish.jpg?v=1696583686807",
+      "category": "Cá Cầu Vồng",
+      "price": 70000,
+      "quantity": 200
+    },
+    {
+      "id": 12,
+      "name": "Cá Dĩa Bồ Câu Panda - Pigeon Red Panda Discus",
+      "img": "https://bizweb.dktcdn.net/100/441/675/products/d1d242465f2c43409880562bd9f761.jpg?v=1697265036890",
+      "category": "Cá Dĩa",
+      "price": 160000,
+      "quantity": 200
+    },
+    {
+      "name": "Cá Cánh Buồm - Rouw Tetra",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/tetrablackskirt.jpg",
+      "category": "Cá Neon",
+      "price": 10000,
+      "quantity": 200,
+      "id": 13
+    },
+    {
+      "id": 14,
+      "name": "Cá Hồng Nhung Vây Dài - Serpae Longfin Tetra",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/serpaetetralongfin.jpg",
+      "category": "Cá Neon",
+      "price": 927,
+      "quantity": 0
+    },
+    {
+      "id": 15,
+      "name": "Cá Na Na - Nana Tetra",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/cananananatetra.jpg",
+      "category": "Cá Neon",
+      "price": 6000,
+      "quantity": 200
+    },
+    {
+      "name": "Cầu Vồng Vây Dài - Threadfin",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/cauvongvaydaifulltrong.jpg",
+      "category": "Cá Cầu Vồng",
+      "price": 230000,
+      "quantity": "202",
+      "id": 17
+    },
+    {
+      "name": "Cá Dĩa Lam Colban - Blue Solid Discus",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/b3c39675f7cd47d3851e13c364ffde.jpg",
+      "category": "Cá Dĩa",
+      "price": 100000,
+      "quantity": 1,
+      "id": 18
+    },
+    {
+      "id": 19,
+      "name": "Cá Phượng Hoàng Acara - Blue Acara Cichlid",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/phuonghoangacara.jpg",
+      "category": "Cá Phượng Hoàng",
+      "price": 120000,
+      "quantity": 200
+    },
+    {
+      "id": 20,
+      "name": "Cá Cầu Vồng Xanh - Dwarf Rainbow Fish",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/5313702ce1fc15a24ced.jpg",
+      "category": "Cá Cầu Vồng",
+      "price": 16000,
+      "quantity": 200
+    },
+    {
+      "id": 21,
+      "name": "Cá Chuột Cafe - Aeneus Cory Green",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/chuotcafe.jpg",
+      "category": "Cá Chuột",
+      "price": 200000,
+      "quantity": 200
+    },
+    {
+      "id": 22,
+      "name": "Cá Cầu Vồng Táo Đỏ",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/491243485650x650result.jpg",
+      "category": "Cá Cầu Vồng",
+      "price": 56000,
+      "quantity": 200
+    },
+    {
+      "id": 23,
+      "name": "Cá Dĩa Man Vàng - Marlboro Yellow Discus",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/d3f730692b5d47268965500619bd87.jpg",
+      "category": "Cá Dĩa",
+      "price": 73000,
+      "quantity": 200
+    },
+    {
+      "id": 24,
+      "name": "Cá Dĩa Vàng Mắt Đỏ - Manrlboro Yellow Albino",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/7bcb9380a9ac4f018754d5ede55fd1.jpg",
+      "category": "Cá Dĩa",
+      "price": 90000,
+      "quantity": 200
+    },
+    {
+      "id": 25,
+      "name": "Cá Phượng Hoàng Peru Đỏ - Apistogramma Agassizii Red",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/phuonghoangperudo.jpg",
+      "category": "Cá Phượng Hoàng",
+      "price": 88000,
+      "quantity": 200
+    },
+    {
+      "id": 26,
+      "name": "Cá Phượng Hoàng Lam Lùn - Baloon German Ram",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/3a736a7fe2af16f14fbe.jpg",
+      "category": "Cá Phượng Hoàng",
+      "price": 280000,
+      "quantity": 200
+    },
+    {
+      "id": 27,
+      "name": "Cá Ông Tiên Koi - Angels Koi Fish",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/koiangel.jpg",
+      "category": "Cá Thần Tiên",
+      "price": 93000,
+      "quantity": 200
+    },
+    {
+      "id": 28,
+      "name": "Cá Neon Bạc - Gold Tetra",
+      "img": "https://bizweb.dktcdn.net/100/441/675/products/goldtetra.jpg?v=1696583643267",
+      "category": "Cá Neon",
+      "price": 26000,
+      "quantity": 200
+    },
+    {
+      "id": 29,
+      "name": " Cá Ông Tiên Vàng Kim Sa - Angels Fish",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/caongtienvangkimsaangelsfish.jpg",
+      "category": "Cá Thần Tiên",
+      "price": 360000,
+      "quantity": 200
+    },
+    {
+      "id": 30,
+      "name": "Cá Neon Vua - Cardinal Tetra",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/cardinaltetrabred.jpg",
+      "category": "Cá Neon",
+      "price": 24000,
+      "quantity": 200
+    },
+    {
+      "id": 31,
+      "name": "Cá Phượng Hoàng Peru Đỏ - Apistogramma Agassizii Red",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/phuonghoangperudo.jpg",
+      "category": "Cá Cầu Vồng",
+      "price": 55000,
+      "quantity": 200
+    },
+    {
+      "id": 52,
+      "name": "Cá Chuột Botia - Pakistani Botia",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/chuotbotia2cfc3bf3fffe4b52922d.jpg",
+      "category": "Cá Chuột",
+      "price": 55000,
+      "quantity": 200
+    },
+    {
+      "id": 53,
+      "name": "Cá Chuột Muối Tiêu - Corydoras Peppered",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/chuotmuoitieu.jpg",
+      "category": "Cá Chuột",
+      "price": 55000,
+      "quantity": 200
+    },
+    {
+      "id": 54,
+      "name": "Cá Chuột Panda - Panda Corydoras",
+      "img": "https://bizweb.dktcdn.net/100/441/675/products/chuotpanda.jpg?v=1696583808427",
+      "category": "Cá Chuột",
+      "price": 55000,
+      "quantity": 200
+    },
+    {
+      "name": "Cá Phượng Hoàng Vàng - German Gold Ram Balloon",
+      "img": "https://bizweb.dktcdn.net/100/441/675/products/caphuonghoangvang.jpg?v=1699430390710",
+      "category": "Cá Phượng Hoàng",
+      "price": 33000,
+      "quantity": "200",
+      "id": 32
+    },
+    {
+      "name": "Thức Ăn Cá Ali - Haquoss Cichlid Gran Juvenile",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/200e554d610efd4d8fb5b2eaf6418d.jpg",
+      "category": "Thức Ăn Cá",
+      "price": 25000,
+      "quantity": 150,
+      "id": 33
+    },
+    {
+      "name": "Thức Ăn Cá Ali Tốt Cho Đường Ruột - Haquoss Cichlid Sticks Gourmet",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/2902d0a0c4b6e24e4aace91e019865.jpg",
+      "category": "Thức Ăn Cá",
+      "price": 30000,
+      "quantity": 120,
+      "id": 34
+    },
+    {
+      "name": "Thức Ăn Cá Ali, Ph - Haquoss Cichlid Adult Gran",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/18f32551fa6a9440b2aebf9a3ce2e0.jpg",
+      "category": "Thức Ăn Cá",
+      "price": 35000,
+      "quantity": 100,
+      "id": 36
+    },
+    {
+      "name": "Thức Ăn Cá Neon, Bảy Màu… - Haquoss Baseflake",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/173fce80e8d0954a1a86693870ad5a.jpg",
+      "category": "Thức Ăn Cá",
+      "price": 40000,
+      "quantity": 90,
+      "id": 37
+    },
+    {
+      "name": "Thức Ăn Cá Dĩa - Haquoss Allium Gran",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/266d7861cc9ee6401194f6e52810cd.jpg",
+      "category": "Thức Ăn Cá",
+      "price": 28000,
+      "quantity": 130,
+      "id": 38
+    },
+    {
+      "name": "Tép Dreamblue",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/tepdreamblue.jpg",
+      "category": "Tép Thủy Sinh",
+      "price": 80000,
+      "quantity": 80,
+      "id": 43
+    },
+    {
+      "name": "Tép Mix Màu",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/tepmau.jpg",
+      "category": "Tép Thủy Sinh",
+      "price": 65000,
+      "quantity": 100,
+      "id": 44
+    },
+    {
+      "name": "Tép Red Chery",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/tepredchery.jpg",
+      "category": "Tép Thủy Sinh",
+      "price": 90000,
+      "quantity": 70,
+      "id": 45
+    },
+    {
+      "name": "Tép Vàng Cam",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/tepvangcma.jpg",
+      "category": "Tép Thủy Sinh",
+      "price": 120000,
+      "quantity": 50,
+      "id": 46
+    },
+    {
+      "name": "Tép Thanh Mai",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/tepthanhmai.jpg",
+      "category": "Tép Thủy Sinh",
+      "price": 110000,
+      "quantity": 60,
+      "id": 47
+    },
+    {
+      "name": "Cá Chuột Botia - Pakistani Botia",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/chuotbotia2cfc3bf3fffe4b52922d.jpg",
+      "category": "Lau Kiếng, Vệ Sinh Hồ",
+      "price": 120000,
+      "quantity": 50,
+      "id": 48
+    },
+    {
+      "name": "Cá Chuột Cafe - Aeneus Cory Green",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/chuotcafe.jpg",
+      "category": "Lau Kiếng, Vệ Sinh Hồ",
+      "price": 55000,
+      "quantity": "10",
+      "id": 49
+    },
+    {
+      "name": "Cá Chuột Cafe Đuôi Dài - Aeneus Cory Green Long Tail",
+      "img": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/chuotcafeduoidai.jpg?v=1696583812130",
+      "category": "Lau Kiếng, Vệ Sinh Hồ",
+      "price": 180000,
+      "quantity": 40,
+      "id": 50
+    },
+    {
+      "name": "Cá Chuột Panda - Panda Corydoras",
+      "img": "https://bizweb.dktcdn.net/100/441/675/products/chuotpanda.jpg?v=1696583808427",
+      "category": "Lau Kiếng, Vệ Sinh Hồ",
+      "price": 70000,
+      "quantity": 60,
+      "id": 51
+    },
+    {
+      "name": "Chuột Botia Kubotai - Botia Kubotai",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/botiakubotairesult.jpg",
+      "category": "Lau Kiếng, Vệ Sinh Hồ",
+      "price": 95000,
+      "quantity": 45,
+      "id": 52
+    },
+    {
+      "name": "Cá Ông Tiên Xanh - Angels Blue Fish",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/7813cd0e4bdebf80e6cf.jpg",
+      "category": "Cá Thần Tiên",
+      "price": 95000,
+      "quantity": 45,
+      "id": 52
+    },
+    {
+      "name": "Ali Thái - Albino Pseudotropheus Ice Blue",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/albinopseudotropheusiceblue28a.png",
+      "category": "Cá Ali Thái",
+      "price": 95000,
+      "quantity": 45,
+      "id": 53
+    },
+    {
+      "name": "Ali Thái - Strawberry Peacock",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/strawberrypeacockc1d81509e0c94.jpg",
+      "category": "Cá Ali Thái",
+      "price": 95000,
+      "quantity": 45,
+      "id": 54
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "Cá Neon"
+    },
+    {
+      "id": 2,
+      "category": "Cá Dĩa"
+    },
+    {
+      "id": 3,
+      "category": "Cá Thần Tiên"
+    },
+    {
+      "id": 4,
+      "category": "Cá Chuột"
+    },
+    {
+      "id": 5,
+      "category": "Cá Phượng Hoàng"
+    },
+    {
+      "id": 6,
+      "category": "Cá Ali Thái"
+    },
+    {
+      "id": 7,
+      "category": "Cá Cầu Vồng"
+    },
+    {
+      "id": 8,
+      "category": "Thức Ăn Cá"
+    },
+    {
+      "id": 9,
+      "category": "Tép Thủy Sinh"
+    },
+    {
+      "id": 10,
+      "category": "Lau Kiếng, Vệ Sinh Hồ"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "tien10304",
+      "email": "tranngoctien10304@gmail.com",
+      "password": "tien10304",
+      "role": "user"
+    },
+    {
+      "username": "tien100304",
+      "email": "tien101119@donga.edu.vn",
+      "password": "tien10304",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "tien123",
+      "email": "zzzkunkun0168@gmail.com",
+      "password": "tien10304",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "tien1234",
+      "email": "uspeakclub@donga.edu.vn",
+      "password": "tien10304",
+      "role": "user",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "user": "tien10304",
+      "products": [
+        {
+          "id": 12,
+          "name": "Cá Dĩa Bồ Câu Panda - Pigeon Red Panda Discus",
+          "img": "https://bizweb.dktcdn.net/100/441/675/products/d1d242465f2c43409880562bd9f761.jpg?v=1697265036890",
+          "category": "Cá Dĩa",
+          "price": 160000,
+          "quantity": 3
+        },
+        {
+          "id": 23,
+          "name": "Cá Dĩa Man Vàng - Marlboro Yellow Discus",
+          "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/d3f730692b5d47268965500619bd87.jpg",
+          "category": "Cá Dĩa",
+          "price": 73000,
+          "quantity": 6
+        }
+      ],
+      "id": 1
+    },
+    {
+      "user": "tien100304",
+      "products": [
+        {
+          "name": "Cầu Vồng Parkinsoni - Parkinsoni",
+          "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/cauvongparkinsonitrong.jpg",
+          "category": "Cá Cầu Vồng",
+          "price": 170000,
+          "quantity": 4,
+          "id": 10
+        },
+        {
+          "id": 12,
+          "name": "Cá Dĩa Bồ Câu Panda - Pigeon Red Panda Discus",
+          "img": "https://bizweb.dktcdn.net/100/441/675/products/d1d242465f2c43409880562bd9f761.jpg?v=1697265036890",
+          "category": "Cá Dĩa",
+          "price": 160000,
+          "quantity": 8
+        },
+        {
+          "id": 9,
+          "name": "Cá Dĩa Beo - Leopar Red Discus",
+          "img": "https://bizweb.dktcdn.net/100/441/675/products/62c30114a15c478599b3e2ebb2ed88.jpg?v=1696583785750",
+          "category": "Cá Dĩa",
+          "price": 450000,
+          "quantity": 2
+        },
+        {
+          "name": "Cầu Vồng Vây Dài - Threadfin",
+          "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/cauvongvaydaifulltrong.jpg",
+          "category": "Cá Cầu Vồng",
+          "price": 230000,
+          "quantity": 4,
+          "id": 17
+        },
+        {
+          "id": 20,
+          "name": "Cá Cầu Vồng Xanh - Dwarf Rainbow Fish",
+          "img": "https://bizweb.dktcdn.net/thumb/large/100/441/675/products/5313702ce1fc15a24ced.jpg",
+          "category": "Cá Cầu Vồng",
+          "price": 16000,
+          "quantity": 2
+        },
+        {
+          "id": 28,
+          "name": "Cá Neon Bạc - Gold Tetra",
+          "img": "https://bizweb.dktcdn.net/100/441/675/products/goldtetra.jpg?v=1696583643267",
+          "category": "Cá Neon",
+          "price": 26000,
+          "quantity": 3
+        }
+      ],
+      "id": 2
+    },
+    {
+      "user": "tien123",
+      "products": [],
+      "id": 3
+    },
+    {
+      "user": "tien1234",
+      "products": [],
+      "id": 4
+    }
+  ]
+}
